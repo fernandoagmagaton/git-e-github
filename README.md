@@ -1,7 +1,11 @@
 ![GitHub](https://img.shields.io/github/license/fernandoagmagaton/git-e-github?style=plastic)
+![ ]
 # Tutorial Git e GitHub
 Tutorial de uso das ferramentas Git e GitHub
-![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/cat.gif)
-![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/pikachu.gif)
+## Playlist
+[iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
 ## Autor 
 Fernando Magaton
+
+![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/cat.gif)
+![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/pikachu.gif)
