@@ -8,5 +8,6 @@ Tutorial de uso das ferramentas Git e GitHub
 ## Autor 
 Fernando Magaton
 
+![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/digitacao.gif)
 ![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/cat.gif)
 ![ ](https://github.com/fernandoagmagaton/git-e-github/blob/main/pikachu.gif)
